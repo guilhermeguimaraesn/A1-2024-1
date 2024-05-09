@@ -12,6 +12,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://guilhermeguimaraesn.github.io/A1-2024-1/)
+- [Acesse o projeto finalizado, online](https://guilhermeguimaraesn.github.io/A1-2024-1/){target="_blank"}
 
 
