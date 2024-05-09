@@ -1,4 +1,4 @@
-<h1 align="center"> Calculadora de Mádia  </h1>
+<h1 align="center"> Calculadora de Média  </h1>
 
 <p align="center">
 - A1 2024/1 Usabilidade desenvolvimento web mobile e jogos. <br/>
